@@ -15,7 +15,8 @@ namespace test.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-
+        //demo
+        public void aCode() { }
         public ManageController()
         {
         }
